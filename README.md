@@ -2,81 +2,101 @@
 
 # 👨‍💻 MANISH BHATT
 
-**Building Scalable, User-Centric Multiplatform Experiences**
+🚀 Android & KMP Engineer | 🧠 On-device AI | ⚡ Performance-focused Developer  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=00C2FF&center=true&vCenter=true&lines=Android+Developer;Kotlin+Multiplatform+Engineer;On-device+AI+Builder" />
+</p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-dontknow492-181717?style=flat-square&logo=github)](https://github.com/dontknow492)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manish%20Bhatt-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manish%20Bhatt-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/manish-bhatt-181363390/)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-I'm a **2025 BCA Graduate** specializing in **Android development**, **Kotlin Multiplatform (KMP)**, and **Python AI integration**. My core philosophy is rooted in **Clean Architecture** and **UX-first design**—bridging the gap between fluid mobile UI with Jetpack Compose and robust backend logic.
+I build **high-performance Android & Multiplatform apps** focused on:
 
-With a passion for building performant, user-centric applications, I focus on creating seamless cross-platform experiences while maintaining code quality and architectural integrity.
+- ⚡ Smooth, responsive UI with Jetpack Compose  
+- 🧠 On-device AI (no cloud dependency)  
+- 🏗 Clean, scalable architecture  
 
----
-
-## 🛠️ Technical Arsenal
-
-### Mobile & UI Development
-- **Languages**: Kotlin, Java, Python, JavaScript/TypeScript
-- **Frameworks & Libraries**: Jetpack Compose, Material Design 3, Coroutines, Flow
-- **Architecture**: MVVM, Clean Architecture, MVI Pattern
-- **UI/UX**: Responsive Design, Animation, Accessibility (A11y)
-
-### Multiplatform & Backend
-- **Kotlin Multiplatform Mobile (KMP)**: Shared business logic across iOS & Android
-- **Backend**: RESTful APIs, Firebase, Room Database
-- **AI/ML Integration**: ONNX Runtime, Ollama, Local LLM Inference
-- **Data**: Jetpack DataStore, SQLite, Offline-First Architecture
-
-### Tools & DevOps
-- **Version Control**: Git, GitHub
-- **Build Tools**: Gradle, Maven
-- **Testing**: JUnit, Mockito, Espresso
-- **CI/CD**: GitHub Actions (optional if applicable)
+Currently exploring how to push **fully offline, privacy-first applications** using  
+**Kotlin Multiplatform + Local LLMs**.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧠 AI Image Organizer
-**Smart local image inference using Kotlin Multiplatform & ONNX**
-- Cross-platform image classification without cloud dependency
-- ONNX Runtime integration for on-device ML inference
-- Kotlin Multiplatform shared logic for iOS & Android
-- **Status**: In Development
+**On-device image classification using KMP + ONNX**
 
-### 🤖 Ollama GUI
-**Privacy-focused graphical interface for local LLMs**
-- Desktop and Android support
-- Real-time streaming responses
-- Offline-capable LLM interactions
-- **Tech Stack**: Kotlin, Jetpack Compose, Ollama API
-- **GitHub**: [dontknow492/ollama-gui](https://github.com/dontknow492/ollama-gui)
+- ⚡ Runs fully offline (no API calls)  
+- 🧠 ONNX Runtime for local ML inference  
+- 🔁 Shared business logic with Kotlin Multiplatform  
+- 📱 Designed for Android + Desktop scalability  
 
-### 📊 ExpenseTracker
-**Offline-first Android finance application**
-- Advanced data visualization and analytics
-- Offline-first architecture with sync capabilities
-- Room Database for local persistence
-- Material Design 3 UI with Jetpack Compose
-- **Features**: Budget tracking, expense categorization, detailed reports
-- **GitHub**: [dontknow492/expensetracker](https://github.com/dontknow492/expensetracker)
-
-### 🎵 Musify
-**High-performance native Android music player**
-- Optimized using Media3 APIs
-- Smooth playback and queue management
-- Clean Architecture implementation
-- **GitHub**: [dontknow492/musify](https://github.com/dontknow492/musify)
+> 🚧 In Progress
 
 ---
 
-## 📊 GitHub Statistics
+### 🤖 Ollama GUI
+**Privacy-first interface for local LLMs**
+
+- 🧠 Run LLMs locally with real-time streaming  
+- ⚡ Smooth UI with Compose (Desktop + Android)  
+- 🔒 Fully offline AI interaction  
+- 🔁 Clean architecture + reactive state handling  
+
+🔗 https://github.com/dontknow492/ollama-gui
+
+---
+
+### 📊 ExpenseTracker
+**Offline-first finance tracking app**
+
+- 📦 Room DB + offline-first architecture  
+- 📊 Data insights & analytics  
+- ⚡ Fast, responsive Compose UI  
+- 🧩 Clean Architecture + MVVM  
+
+🔗 https://github.com/dontknow492/expensetracker
+
+---
+
+### 🎵 Musify
+**High-performance Android music player**
+
+- 🎧 Built using Media3 APIs  
+- ⚡ Smooth playback & queue management  
+- 🏗 Clean architecture implementation  
+
+🔗 https://github.com/dontknow492/musify
+
+---
+
+## ⚙️ Tech Stack
+
+**Core**
+- Kotlin, Jetpack Compose, Coroutines, Flow  
+
+**Multiplatform**
+- Kotlin Multiplatform (KMP)  
+
+**Data & Backend**
+- Room, DataStore, Firebase, REST APIs  
+
+**AI / ML**
+- ONNX Runtime, Ollama, Local LLMs  
+
+**Tools**
+- Git, GitHub, Gradle, GitHub Actions  
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -84,44 +104,36 @@ With a passion for building performant, user-centric applications, I focus on cr
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dontknow492&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=dontknow492&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
 
-## 🎯 Core Competencies
+## 🎯 What I’m Exploring
 
-| Category | Skills |
-|----------|--------|
-| **Mobile Development** | Android, Kotlin, Jetpack Compose, Material Design |
-| **Multiplatform** | Kotlin Multiplatform Mobile (KMP), Shared Logic |
-| **Backend & Data** | RESTful APIs, Firebase, Room, DataStore |
-| **AI/ML** | ONNX, Ollama, Local Inference, Python |
-| **Architecture** | Clean Architecture, MVVM, MVI, SOLID Principles |
-| **Tools & DevOps** | Git, GitHub, Gradle, GitHub Actions |
+- ⚡ Compose performance (recomposition, state optimization)  
+- 🧠 Running LLMs locally on mobile (latency + memory tuning)  
+- 🔁 Scaling real-world KMP architectures  
 
 ---
 
-## 💡 What I'm Currently Exploring
+## 🎯 Open To
 
-- Advanced **Kotlin Multiplatform** patterns for seamless code sharing
-- **Local LLM inference** optimization for mobile devices
-- **Jetpack Compose** performance optimization techniques
-- **Privacy-first** application architecture
+- Android / Kotlin Multiplatform roles (Intern / Junior)  
+- Projects involving **on-device AI** or **performance-critical apps**  
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let’s Connect
 
-I'm always interested in collaborating on innovative projects, discussing architecture patterns, or exploring new technologies.
-
-- **GitHub**: [@dontknow492](https://github.com/dontknow492)
-- **LinkedIn**: [Manish Bhatt](https://www.linkedin.com/in/manish-bhatt-181363390/)
+- GitHub: https://github.com/dontknow492  
+- LinkedIn: https://www.linkedin.com/in/manish-bhatt-181363390/  
 
 ---
 
 <div align="center">
 
-**⭐ If you find my projects interesting, consider giving them a star!**
+⭐ *If you find my work interesting, consider starring a repo!*  
 
 </div>
-
