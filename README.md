@@ -115,7 +115,6 @@ With a passion for building performant, user-centric applications, I focus on cr
 I'm always interested in collaborating on innovative projects, discussing architecture patterns, or exploring new technologies.
 
 - **GitHub**: [@dontknow492](https://github.com/dontknow492)
-- **Email**: [your.email@example.com](manishbhatt7310@gmail.com)
 - **LinkedIn**: [Manish Bhatt](https://www.linkedin.com/in/manish-bhatt-181363390/)
 
 ---
